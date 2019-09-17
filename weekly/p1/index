@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Portfolio of Forrest King</title>
+</head>
+<p><img src="img/MobileTest1.png" alt="Mockup 2"></p>
+<p><img src="img/desktopTest1.png" alt="Mockup 1"></p>
+<body>
+<h1>
+This page will be My portfolio homepage</h1>
+</body>
+</html>
