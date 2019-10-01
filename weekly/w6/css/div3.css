@@ -1,0 +1,115 @@
+@charset "UTF-8";
+/* CSS Document */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	background-image: url("../img/beanstalk.png")
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#wrapper {
+	width:960px;
+	font-family: "sans-serif", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	background-color: #D4E7EF;
+	overflow: hidden;
+	margin:0 auto;
+	margin-top: 20px;
+	
+	/*padding:10px 10px;*/
+}
+header {
+	width:920px;
+	margin-top:49px;
+	margin-left: 40px;
+	overflow:hidden;
+	font-weight: bold;
+}
+#logo {
+	width:160px;
+	margin-left: 10px;
+	float:left;
+}
+nav {
+	width:658px;
+	margin-left:132px;
+}
+li {
+	display:inline;
+	margin-left:28px;
+}
+main {
+	margin-top:25px;
+	width:960px;
+	height: 430px;
+	padding-bottom: 85px;
+	border-bottom: solid 1px #B9B7B7;
+	padding-top:35px;
+	border-top: solid 1px #B9B7B7;
+}
+.column {
+	width:220px;
+	margin:0 10px;
+	float:left;
+	
+}
+footer {
+	margin-left: 10px;
+	margin-top:10px;
+	width:930px;
+	clear:both;
+}
+h2 {
+	margin-top: 19px;
+	font-weight: bold;
+	margin-bottom: 25px;
+	
+}
+h1 {
+}
+.mainav {
+	float:left;
+	display: inline;
+	margin-top: 38px;
+	margin-left: 100px;
+}
+p {
+	font-size: 12px;
+}
