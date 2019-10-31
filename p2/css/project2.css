@@ -55,7 +55,8 @@ table {
 	margin:0 auto;
 }
 header {
-	width:1360 px;
+	//width:1360 px;
+	width: 3000 px;
 	margin:0 auto;
 }
 #logo {
