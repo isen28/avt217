@@ -57,8 +57,8 @@ table {
 	overflow:hidden;
 }
 header {
-	/*width:1360 px;*/
-	width: 3000 px;
+	width:1360 px;
+	/*width: 3000 px;*/
 	padding-left: 200 px;
 	margin:0 auto;
 	background-color: #FFFFFF;
@@ -75,12 +75,12 @@ header {
 	margin:0 auto;
 	float:left;
 }
-#nav {
+/*#nav {
 	width:1000 px;
 	margin-left:100px;
 	background-color: #4719b2;
 	margin:0 auto;
-}
+}*/
 #review {
 	width:340px;
 	margin-left: 40 px;
@@ -107,12 +107,12 @@ main {
 	width:1440 px;
 	margin:0 auto;
 }
-/*.navigation {
+.navigation {
 	width:1000 px;
 	margin-left:100px;
 	background-color: #4719b2;
-*/	
-}
+	margin:0 auto;
+}	
 .navigation li {
 	display.inline;
 	float: left;
