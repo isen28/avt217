@@ -53,7 +53,7 @@ table {
 #wrapper {
 	font-family: "sans-serif", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	overflow:hidden;
-	width:auto;
+	width:1440 px;
 	/*background-color: #FFFFFF;*/
 }
 header {
