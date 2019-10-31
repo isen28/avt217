@@ -121,7 +121,7 @@ main {
 	float:left;
 }	
 .navigation li {
-	display.inline;
+	display:inline;
 	float: left;
 	color: #FFFFFF;
 	font-size: 42 px;
@@ -135,6 +135,7 @@ main {
 	color: #4719b2;
 	margin-right: 40px;
 	float:left;
+	display:inline;
 	
 }
 .moreinfo {
