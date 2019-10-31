@@ -69,6 +69,7 @@ header {
 	width:270 px;
 	margin-right:60 px;
 	float:left;
+	margin-left:60 px;
 }
 #navwrapper {
 	width:1200 px;
@@ -95,6 +96,7 @@ main {
 }
 .title {
 	background-color: #4719b2;
+	clear:both;
 }
 #menu {
 	background-color: #FFFFFF;
@@ -104,10 +106,12 @@ main {
 	width:1440 px;
 	/*margin-left:140 px;*/
 	margin:0 auto;
+	clear:both;
 }
 .column2 {
 	width:1440 px;
 	margin:0 auto;
+	clear:both;
 }
 .navigation {
 	width:1000 px;
@@ -136,11 +140,13 @@ main {
 .moreinfo {
 	height: 50px;
 	background-color: #FFFFFF;
+	clear:both;
 }
 footer {
 	background-color: #4719b2;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	margin:0 auto;
 }
 h1 {
 	font-size: 34 px;
