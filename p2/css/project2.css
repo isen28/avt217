@@ -55,7 +55,7 @@ table {
 }
 header {
 	/*width:1360 px;*/
-	width: 2000 px;
+	width: 3000 px;
 	margin-left: 200 px;
 	margin:0 auto;
 }
@@ -65,8 +65,8 @@ header {
 	float:left;
 }
 #navwrapper {
-	width:650 px;
-	height:200 px;
+	width:1200 px;
+	height:300 px;
 	background-color: #FFFFFF;
 	margin:0 auto;
 	float:left;
@@ -98,7 +98,8 @@ main {
 	margin:0 auto;
 }
 .navigation {
-	width:590 px;
+	width:1000 px;
+	margin-left:100px;
 	background-color: #4719b2;
 	
 }
@@ -106,8 +107,10 @@ main {
 	display.inline;
 	float: left;
 	color: #FFFFFF;
-	font-size: 24 px;
+	font-size: 42 px;
 	float:left;
+	margin-left: 100 px;
+	margin-right: 100 px;
 }
 .foodlist {
 	width:440 px;
