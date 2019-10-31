@@ -54,7 +54,7 @@ table {
 	font-family: "sans-serif", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 }
 header {
-	//width:1360 px;
+	/*width:1360 px;*/
 	width: 3000 px;
 	margin:0 auto;
 }
@@ -88,7 +88,7 @@ main {
 }
 .column {
 	width:1440 px;
-	//margin-left:140 px;
+	/*margin-left:140 px;*/
 	margin:0 auto;
 }
 .column2 {
