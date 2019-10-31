@@ -61,6 +61,7 @@ header {
 	width: 3000 px;
 	padding-left: 200 px;
 	margin:0 auto;
+	background-color: #FFFFFF;
 }
 #logo {
 	width:270 px;
@@ -78,6 +79,7 @@ header {
 	width:1000 px;
 	margin-left:100px;
 	background-color: #4719b2;
+	margin:0 auto;
 }
 #review {
 	width:340px;
