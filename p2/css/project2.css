@@ -54,7 +54,7 @@ table {
 	font-family: "sans-serif", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	margin:0 auto;
 	overflow:hidden;
-	background-image: url("../img/burgers.jpg");
+	background-color: #FFFFFF;
 }
 header {
 	width:1360 px;
