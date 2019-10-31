@@ -52,7 +52,6 @@ table {
 
 #wrapper {
 	font-family: "sans-serif", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	margin:0 auto;
 }
 header {
 	//width:1360 px;
@@ -61,7 +60,7 @@ header {
 }
 #logo {
 	width:270 px;
-	buffer-right:60 px;
+	margin-right:60 px;
 	float:left;
 }
 #navwrapper {
