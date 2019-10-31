@@ -55,13 +55,22 @@ table {
 header {
 	
 }
+#logo {
+
+}
+#navwrapper {
+
+}
+#review {
+	
+}
 main {
 	
 }
 #center {
 	
 }
-#menutitle {
+.title {
 	
 }
 #menu {
@@ -79,7 +88,7 @@ main {
 .foodlist {
 	
 }
-#moretext {
+.moreinfo {
 	
 }
 footer {
