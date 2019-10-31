@@ -99,6 +99,7 @@ main {
 }
 #menu {
 	background-color: #FFFFFF;
+	width:auto;
 	
 }
 .column {
@@ -149,6 +150,7 @@ footer {
 	background-color: #4719b2;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	width:auto;
 	margin:0 auto;
 }
 h1 {
