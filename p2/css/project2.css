@@ -61,12 +61,13 @@ header {
 }
 #logo {
 	width:270 px;
-	margin-right:60 px;
+	buffer-right:60 px;
 	float:left;
 }
 #navwrapper {
 	width:650 px;
 	background-color: #FFFFFF;
+	margin:0 auto;
 	float:left;
 }
 #review {
