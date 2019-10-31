@@ -59,7 +59,7 @@ table {
 header {
 	/*width:1360 px;*/
 	width: 3000 px;
-	margin-left: 200 px;
+	padding-left: 200 px;
 	margin:0 auto;
 }
 #logo {
@@ -73,6 +73,11 @@ header {
 	background-color: #FFFFFF;
 	margin:0 auto;
 	float:left;
+}
+#nav {
+	width:1000 px;
+	margin-left:100px;
+	background-color: #4719b2;
 }
 #review {
 	width:340px;
@@ -100,11 +105,11 @@ main {
 	width:1440 px;
 	margin:0 auto;
 }
-.navigation {
+/*.navigation {
 	width:1000 px;
 	margin-left:100px;
 	background-color: #4719b2;
-	
+*/	
 }
 .navigation li {
 	display.inline;
