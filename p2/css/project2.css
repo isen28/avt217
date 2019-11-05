@@ -113,6 +113,7 @@ main {
 	margin:0 auto;
 	float:left;
 	clear:both;
+	display:inline;
 }
 .column2 {
 	width:400 px;
@@ -120,12 +121,14 @@ main {
 	margin:0 auto;
 	float:left;
 	clear:both;
+	display:inline;
 }
 .column3 {
 	width:400 px;
 	margin-left:80px;
 	margin:0 auto;
 	clear:both;
+	display:inline;
 }
 .navigation {
 	width:700 px;
