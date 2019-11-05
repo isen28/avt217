@@ -52,6 +52,7 @@ table {
 
 #wrapper {
 	width:1440 px;
+	margin:0 auto;
 	font-family: "sans-serif", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	overflow:hidden;
 	/*background-color: #FFFFFF;*/
