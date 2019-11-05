@@ -61,8 +61,8 @@ header {
 	width:1360 px;
 	/*height:400 px;*/
 	/*width: 3000 px;*/
-	margin-left: 40 px;
 	margin:0 auto;
+	margin-left: 40 px;
 	background-color: #FFFFFF;
 	overflow:hidden;
 }
