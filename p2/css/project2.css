@@ -51,14 +51,15 @@ table {
 }
 
 #wrapper {
+	display:block;
 	width:1440 px;
 	margin:0 auto;
 	font-family: "sans-serif", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	overflow:hidden;
 	/*background-color: #FFFFFF;*/
-	display:block;
 }
 header {
+	display:block;
 	width:1360 px;
 	/*height:400 px;*/
 	/*width: 3000 px;*/
