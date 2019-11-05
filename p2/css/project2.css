@@ -59,7 +59,7 @@ table {
 	/*background-color: #FFFFFF;*/
 }
 header {
-	display:block;
+	position:relative;
 	width:1360 px;
 	/*height:400 px;*/
 	/*width: 3000 px;*/
@@ -67,6 +67,8 @@ header {
 	margin-left: 40 px;
 	background-color: #FFFFFF;
 	overflow:hidden;
+	position:relative;
+	text-align:center;
 }
 #logo {
 	width:270 px;
