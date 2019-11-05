@@ -94,12 +94,13 @@ main {
 	width:1440 px;
 }
 #center {
-	
+	width:1440 px;
 }
 .title {
 	background-color: #4719b2;
 	clear:both;
 	width:1440 px;
+	text-align:center;
 }
 #menu {
 	background-color: #FFFFFF;
@@ -129,7 +130,7 @@ main {
 	width:700 px;
 	margin-left:25px;
 	background-color: #4719b2;
-	margin:0 auto;
+	text-align:center;
 	float:left;
 }	
 .navigation li {
