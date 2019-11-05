@@ -53,7 +53,6 @@ table {
 #wrapper {
 	display:block;
 	width:1440 px;
-	margin:left;
 	font-family: "sans-serif", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	overflow:hidden;
 	/*background-color: #FFFFFF;*/
@@ -67,7 +66,6 @@ header {
 	margin-left: 40 px;
 	background-color: #FFFFFF;
 	overflow:hidden;
-	position:relative;
 	text-align:center;
 }
 #logo {
@@ -118,6 +116,7 @@ main {
 	float:left;
 	clear:both;
 	display:inline;
+	overflow:hidden;
 }
 .column2 {
 	width:400 px;
@@ -126,6 +125,7 @@ main {
 	float:left;
 	clear:both;
 	display:inline;
+	overflow:hidden;
 }
 /*.column3 {
 	width:400 px;
