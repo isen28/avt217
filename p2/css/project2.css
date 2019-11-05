@@ -107,6 +107,8 @@ main {
 }
 #menu {
 	background-color: #FFFFFF;
+	width:1440 px;
+	height:1440 px;
 	
 }
 .column {
@@ -130,7 +132,6 @@ main {
 	margin-left:80px;
 	margin:0 auto;
 	clear:both;
-	display:inline;
 }
 .navigation {
 	width:700 px;
