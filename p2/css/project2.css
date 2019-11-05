@@ -59,9 +59,9 @@ table {
 }
 header {
 	width:1360 px;
-	height:400 px;
+	/*height:400 px;*/
 	/*width: 3000 px;*/
-	padding-left: 40 px;
+	margin-left: 40 px;
 	margin:0 auto;
 	background-color: #FFFFFF;
 	overflow:hidden;
