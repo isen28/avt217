@@ -52,9 +52,10 @@ table {
 
 #wrapper {
 	display:block;
-	width:1440 px;
+	width:1000 px;
 	font-family: "sans-serif", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	overflow:hidden;
+	margin:0 auto;
 	/*background-color: #FFFFFF;*/
 }
 header {
@@ -92,20 +93,20 @@ header {
 	margin-left: 40 px;
 }
 main {
-	width:1440 px;
+	width:1000 px;
 }
 #center {
-	width:1440 px;
+	width:1000 px;
 }
 .title {
 	background-color: #4719b2;
 	clear:both;
-	width:1440 px;
+	width:1000 px;
 	text-align:center;
 }
 #menu {
 	background-color: #FFFFFF;
-	width:1440 px;
+	width:1000 px;
 	height:1440 px;
 	
 }
