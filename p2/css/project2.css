@@ -74,7 +74,7 @@ header {
 	margin-left:60 px;
 }
 #navwrapper {
-	width:1200 px;
+	width:750 px;
 	height:300 px;
 	background-color: #FFFFFF;
 	margin:0 auto;
@@ -106,22 +106,28 @@ main {
 	
 }
 .column {
-	width:1440 px;
-	margin-left:140 px;
+	width:400 px;
+	margin-left:80 px;
 	margin:0 auto;
 	float:left;
 	clear:both;
 }
 .column2 {
-	width:1440 px;
-	margin-left:140px;
+	width:400 px;
+	margin-left:80px;
 	margin:0 auto;
 	float:left;
 	clear:both;
 }
+.column3 {
+	width:400 px;
+	margin-left:80px;
+	margin:0 auto;
+	clear:both;
+}
 .navigation {
-	width:1000 px;
-	margin-left:100px;
+	width:700 px;
+	margin-left:25px;
 	background-color: #4719b2;
 	margin:0 auto;
 	float:left;
@@ -132,11 +138,10 @@ main {
 	color: #FFFFFF;
 	font-size: 42 px;
 	float:left;
-	margin-left: 100 px;
-	margin-right: 100 px;
+	margin-left: 25 px;
 }
 .foodlist {
-	width:440 px;
+	width:400 px;
 	font-size:20 px;
 	color: #4719b2;
 	margin-right: 40px;
