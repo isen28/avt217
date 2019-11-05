@@ -138,8 +138,8 @@ main {
 	float: left;
 	color: #FFFFFF;
 	font-size: 42 px;
-	float:left;
 	margin-left: 25 px;
+	margin-right:25 px;
 }
 .foodlist {
 	width:400 px;
@@ -153,6 +153,7 @@ main {
 .moreinfo {
 	height: 50px;
 	background-color: #FFFFFF;
+	text-align:center;
 	clear:both;
 }
 footer {
