@@ -91,7 +91,7 @@ header {
 	margin-left: 40 px;
 }
 main {
-	
+	width:1440 px;
 }
 #center {
 	
@@ -99,6 +99,7 @@ main {
 .title {
 	background-color: #4719b2;
 	clear:both;
+	width:1440 px;
 }
 #menu {
 	background-color: #FFFFFF;
