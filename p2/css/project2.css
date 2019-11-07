@@ -32,8 +32,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	background-image: url("../img/burgers.jpg");
-	background-repeat: no-repeat;
+    background-image: url("../img/beanstalk.png")
+    /*background-color: #4719b2;*/
 }
 ol, ul {
 	list-style: none;
@@ -53,103 +53,113 @@ table {
 
 #wrapper {
 	/*display:block;*/
-	width:1440 px;
+	width:1224px;
 	font-family: "sans-serif", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	overflow:hidden;
 	margin:0 auto;
 	/*background-color: #FFFFFF;*/
 }
 header {
-	width:1360 px;
-	/*height:400 px;*/
-	/*width: 3000 px;*/
+	width:1224 px;
+	height:816px;
 	margin:0 auto;
-	margin-left: 40 px;
 	background-color: #FFFFFF;
-	
+	background-image: url("../img/burgers2.jpg");
 	overflow:hidden;
 	text-align:center;
+	background-repeat: no-repeat;
 }
 #logo {
-	width:270 px;
-	margin-right:60 px;
+	width:270px;
+	margin-left:200px;
+    margin-top:30px;
 	float:left;
-	margin-left:60 px;
 }
-#navwrapper {
-	width:750 px;
-	height:300 px;
+
+#review {
+	width:640px;
+	padding-left: 40 px;
+	clear:both;
+	padding-top: 200px;
+	font-size: 40px;
+    float:left;
+}
+main {
+	width:1224px;
+	clear:both;
 	background-color: #FFFFFF;
-	margin:0 auto;
-	float:left;
 }
+#center {
+	width:1224px;
+}
+.title {
+	background-color: #4719b2;
+	clear:both;
+	/*width:1224px;*/
+	text-align:center;
+	margin: 0 auto;
+	padding-top: 34px;
+	padding-bottom: 34px;
+}
+h2 {
+	font-size: 42px;
+	color: #FFFFFF;
+
+}
+
+.menu {
+	background-color: #FFFFFF;
+	width:1224px;	
+	clear:both;
+	margin-left:40px;
+}
+.column {
+	width:380px;
+	/*margin-left:20 px;*/
+	float:left;
+	display:inline;
+	overflow:hidden;
+
+}
+/*.column2 {
+	width:380 px;
+	margin-left:20px;
+	float:left;
+	display:inline;
+	overflow:hidden;
+}*/
+/*.column3 {
+	width:400 px;
+	margin-left:80px;
+	margin:0 auto;
+	clear:both;
+}*/
 /*#nav {
 	width:1000 px;
 	margin-left:100px;
 	background-color: #4719b2;
 	margin:0 auto;
 }*/
-#review {
-	width:340px;
-	margin-left: 40 px;
-}
-main {
-	width:1440 px;
-}
-#center {
-	width:1440 px;
-}
-.title {
-	background-color: #4719b2;
-	clear:both;
-	width:1440 px;
-	text-align:center;
-}
-#menu {
+#nav {
+	width:1200px;
 	background-color: #FFFFFF;
-	width:1440 px;
-	height:1440 px;
-	
-}
-.column {
-	width:400 px;
-	margin-left:80 px;
-	margin:0 auto;
-	float:left;
-	clear:both;
-	display:inline;
-	overflow:hidden;
-
-}
-.column2 {
-	width:400 px;
-	margin-left:80px;
-	margin:0 auto;
-	float:left;
-	clear:both;
-	display:inline;
-	overflow:hidden;
-}
-/*.column3 {
-	width:400 px;
-	margin-left:80px;
-	margin:0 auto;
-	clear:both;*/
-}
-.navigation {
-	width:700 px;
-	margin-left:25px;
-	background-color: #4719b2;
-	text-align:center;
+	padding: 10px 12px;
 	float:left;
 }	
-.navigation li {
+.navigation{
 	display:inline;
-	float: left;
-	color: #FFFFFF;
+	color: #4719b2;
 	font-size: 42 px;
-	margin-left: 25 px;
-	margin-right:25 px;
+	font-size: 20px;
+
+}
+
+.navigation li{
+	display:inline;
+	color: #4719b2;
+	margin-left: 45px;
+	margin-right:45px;
+
 }
 .foodlist {
 	width:400 px;
@@ -161,7 +171,7 @@ main {
 	
 }
 .moreinfo {
-	height: 50px;
+	height: 76px;
 	background-color: #FFFFFF;
 	text-align:center;
 	clear:both;
@@ -174,32 +184,30 @@ footer {
 	margin:0 auto;
 }
 h1 {
-	font-size: 34 px;
+	font-size: 34px;
 	color: #FFFFFF;
 }
-h2 {
-	font-size: 42 px;
-	color: #FFFFFF;
-	padding-top: 34 px;
-	padding-bottom: 34 px;
-	margin: auto;
-}
+
 h3 {
-	font-size: 32 px;
+	font-size: 32px;
 	font-weight: bold;
 	color: #4719b2;
 	border-bottom: solid 2px #4719b2;
+	margin-top: 10px;
 }
 h4 {
-	font-size: 24 px;
+	font-size: 24px;
 	color: #000000;
 }
 h5 {
-	font-size: 16 px;
+	font-size: 16px;
 	color: #CBCDD3;
+    text-align:center;
 }
 p {
 	font-size: 24 px;
 	color: #4719b2;
+    margin-top: 50px;
+    margin-bottom:50px;
 	text-align:center;
 }
